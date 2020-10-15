@@ -1,0 +1,1 @@
+print('Dane is God')
